@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Kristel Uiboaed
+# 26.10.2016
+
 # Remove headers from xml-files in the working directory
 # and write the output a file with xml2-extension.
 # In the end move output files to the output directory.

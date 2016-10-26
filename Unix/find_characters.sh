@@ -1,5 +1,9 @@
 #! /bin/bash
 
+# Kristel Uiboaed
+# 26.10.2016
+
+
 # Create the frequency list of all the characters and exclude:
 # English alphabet,
 # numbers,

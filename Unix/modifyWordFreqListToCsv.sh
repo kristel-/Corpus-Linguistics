@@ -1,5 +1,8 @@
 #! /bin/bash
 
+# Kristel Uiboaed
+# 26.10.2016
+
 # Modify a word frequency list and
 # sort it by a second column (alphabetically)
 tr -s ' ' \

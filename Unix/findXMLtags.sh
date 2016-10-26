@@ -1,5 +1,8 @@
 #! /bin/bash
 
+# Kristel Uiboaed
+# 26.10.2016
+
 # Count xml-tags in the file.
 # Use #, IF it does not occur in the input file.
 
