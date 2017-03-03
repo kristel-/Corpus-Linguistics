@@ -25,3 +25,6 @@ sed -s '1,5d'
 
 # delete lines 1-3 and the 5th line of an input file
 sed -s '1,3d;5d'
+
+# Check the encoding of files
+for f in */; do file -i "$f" ; done
