@@ -21,4 +21,3 @@ for  file  in  *.txt; do
 
 done
 exit
-
