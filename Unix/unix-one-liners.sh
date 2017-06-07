@@ -30,4 +30,4 @@ sed -s '1,3d;5d'
 for f in */; do file -i "$f" ; done
 
 # Replace a string in all txt-files in the workind directory
-sed -i -- 's/   //g' *txt*
+sed -i -- 's/string/replace/g' *txt*
